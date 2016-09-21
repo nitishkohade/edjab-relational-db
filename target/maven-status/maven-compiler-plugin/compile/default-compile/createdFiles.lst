@@ -1,0 +1,6 @@
+com\edjab\school\SchoolCategoryInfo.class
+com\edjab\school\App.class
+com\edjab\school\HibernateApis.class
+com\edjab\school\SchoolCategoryCombined.class
+com\edjab\persistence\HibernateUtil.class
+com\edjab\school\SchoolInfo.class
